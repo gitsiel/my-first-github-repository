@@ -3,3 +3,5 @@ Just another file created
 This file was modified locally
 
 This line was added.
+
+Another modification in the feature-2 branch.
